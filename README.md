@@ -6,6 +6,8 @@ laod this library in controllers
 
 $this->load->library('shiprocket');
 
+Example ::
+
 $post['pickup_postcode'] = 560072;
 
 $post['cod'] = 0;
